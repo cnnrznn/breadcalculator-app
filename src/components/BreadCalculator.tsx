@@ -81,7 +81,7 @@ const BreadCalculator = (): JSX.Element => {
         
         {/* Input Section */}
         <div className="mb-8">
-          <h2 className="text-lg font-semibold text-amber-700 mb-4 pb-2 border border-amber-200">Input Values</h2>
+          <h2 className="text-lg font-semibold text-amber-700 mb-4 pb-2">Input Values</h2>
           
           <div className="space-y-4">
             <div>
@@ -144,7 +144,7 @@ const BreadCalculator = (): JSX.Element => {
         
         {/* Output Section */}
         <div>
-          <h2 className="text-lg font-semibold text-amber-700 mb-4 pb-2 border border-amber-200">Results</h2>
+          <h2 className="text-lg font-semibold text-amber-700 mb-4 pb-2">Results</h2>
           
           <div className="grid grid-cols-2 gap-6">
             <div className="bg-amber-100 p-4 rounded-lg">
